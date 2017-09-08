@@ -19,12 +19,16 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-        
+        loadChat()
         
         
         
         
  
+    }
+    
+    func loadChat(){
+    print("loadChat............")
     }
 
 
